@@ -10,6 +10,8 @@ Replace `"path/to/mistral-7b-instruct-v0.2.Q4_K_S.gguf"` with the actual path to
 
 Run the script: `python app.py`
 
+![](chat.png)
+
 ---
 
 ## License
