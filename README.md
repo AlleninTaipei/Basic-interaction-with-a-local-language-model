@@ -10,7 +10,7 @@ This script was developed by Claude 3.5. It helps me understand the basic struct
 
 * Run the script: `python app.py`
 
-## Use LM Studio to get oper source LLM model. It will be saved in this folder.
+## Use LM Studio to get oper source LLM model. It will be saved under User Folders in Windows. 
 
 ![](findGGUF.png)
 
